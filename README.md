@@ -18,7 +18,7 @@ This project explores **Google Play Store data** to identify market trends, user
    ```
 2. Install required libraries:
    ```bash
-   pip install pandas numpy matplotlib seaborn wordcloud
+   pip install pandas numpy matplotlib seaborn 
    ```
 3. Open the Jupyter Notebook:
    ```bash
