@@ -32,7 +32,7 @@ This project explores **Google Play Store data** to identify market trends, user
 ✔ **Data-Driven Marketing**: Category insights help developers target the right audience, increasing ROI by **20-50%**.  
 
 ## Author
-Your Name
+Abhinay kumar
 
 ---
-For questions, reach out via [LinkedIn](https://linkedin.com/in/yourprofile).
+For questions, reach out via [LinkedIn](https://linkedin.com/in/theabhinaykumar).
